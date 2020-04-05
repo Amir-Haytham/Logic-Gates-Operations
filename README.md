@@ -1,7 +1,7 @@
 # Logic-Gates-Operations
 Simple Implementation for Logic Gates project represented in Physics (BS221). Implemented using C++.
 
-# The Operation
+# The Operations
 * OR gate and show truth table 
 * AND gate and show truth table 
 * NOT gate and show truth table 
