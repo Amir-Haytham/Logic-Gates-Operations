@@ -1,4 +1,4 @@
-# Circuit Simulation Logic Gates Operations
+# Logic Gates Circuits Simulation Operations
 Simple Implementation for Logic Gates project represented in Physics (BS221) Course. Implemented using C++.
 
 # The Operations
